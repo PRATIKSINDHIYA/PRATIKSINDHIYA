@@ -2,16 +2,20 @@
 <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" align="center" style="width: 75%" />
 </div>  
 
-<h1 align="center">Hi 👋, I'm Pratik Sindhiya</h1>
-<h3 align="center">A passionate FullStack Web Developer from India</h3>
 
+### <div align="center">I'm Pratik , a full stack Web developer 👨‍💻
+</div>  
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratiksindhiya&label=Profile%20views&color=0e75b6&style=flat" alt="pratiksindhiya" /> </p>
 
+
+- 🎓 I’m currently studying at  [IIITVADODARA](https://iiitvadodara.ac.in)
+  
 - 🔭 I’m currently working on [Music App](https://listenup.freewebhostmost.com/)
 
 - 🌱 I’m currently learning **NodeJS,ExpressJS**
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **MERN stack**
 
 - 📫 How to reach me **pratiksindhiya3@gmail.com**
 
