@@ -1,7 +1,5 @@
-<img src="/image.png></img>
 [![MasterHead](image.png)](https://github.com/PRATIKSINDHIYA)
-
-=======
+===================================================================================================================================================
 
 <h1 align="center">Hi 👋, I'm Pratik Sindhiya</h1>
 <h3 align="center">A passionate FullStack Web Developer from India</h3>
