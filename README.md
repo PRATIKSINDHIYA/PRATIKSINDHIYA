@@ -1,3 +1,4 @@
+![alt text]("C:\Users\Prateek\Pictures\Screenshots\Screenshot 2025-01-25 160713.png")
 <h1 align="center">Hi 👋, I'm Pratik Sindhiya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
