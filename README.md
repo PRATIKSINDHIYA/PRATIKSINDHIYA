@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" align="center" style="width: 100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" align="center" style="width: 50%" />
 </div>  
 
 <h1 align="center">Hi 👋, I'm Pratik Sindhiya</h1>
