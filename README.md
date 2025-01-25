@@ -1,10 +1,11 @@
-![alt text]("C:\Users\Prateek\Pictures\Screenshots\Screenshot 2025-01-25 160713.png")
+
+=======
+<img src="/image.png></img>
+
 <h1 align="center">Hi 👋, I'm Pratik Sindhiya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate FullStack Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratiksindhiya&label=Profile%20views&color=0e75b6&style=flat" alt="pratiksindhiya" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratiksindhiya" alt="pratiksindhiya" /></a> </p>
 
 - 🔭 I’m currently working on [Music App](https://listenup.freewebhostmost.com/)
 
