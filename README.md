@@ -35,5 +35,5 @@
 
 <br/>
 <h3 align="left">Github Status</h3>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranishrocks&hide_border=true&layout=compact" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratiksindhiya&hide_border=true&layout=compact" /></div>  
 <br/>
