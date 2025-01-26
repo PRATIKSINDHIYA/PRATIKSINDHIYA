@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" align="center" style="width:65%" />
 </div>  
@@ -36,3 +37,6 @@
 <h3 align="left">Github Status</h3>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranishrocks&hide_border=true&layout=compact" /></div>  
 <br/>
+=======
+
+>>>>>>> 2411c91299a11603bb129c4ebd03421fdb0af6ce
