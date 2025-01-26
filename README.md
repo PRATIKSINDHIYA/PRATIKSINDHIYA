@@ -7,9 +7,7 @@
 ### <div align="center">I'm Pratik , a Full Stack Web Developer 👨‍💻
 </div>  
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratiksindhiya&label=Profile%20views&color=0e75b6&style=flat" alt="pratiksindhiya" /> </p>
-
-
+  
 - 🎓 I’m currently studying at  [IIITVADODARA](https://iiitvadodara.ac.in)
   
 - 🔭 I’m currently working on [Music App](https://listenup.freewebhostmost.com/)
@@ -20,7 +18,6 @@
 
 - 📫 How to reach me **pratiksindhiya3@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,5 +32,5 @@
 
 <br/>
 <h3 align="left">Github Status</h3>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratiksindhiya&hide_border=true&layout=compact" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRATIKSINDHIYA&hide_border=true&layout=compact" /></div>  
 <br/>
