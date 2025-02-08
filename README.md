@@ -1,22 +1,15 @@
-
 <div align="center">
  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" align="center" style="width:65%" /> 
 </div>   
 
+### <div align="center">I'm Pratik, a Full Stack Web Developer 👨‍💻</div>  
 
-### <div align="center">I'm Pratik , a Full Stack Web Developer 👨‍💻
-</div>  
-  
-  
-- 🎓 I’m currently studying at  [IIITVADODARA](https://iiitvadodara.ac.in)
-  
-- 🔭 I’m currently working on [Music App](https://listenup.freewebhostmost.com/)
-
-- 🌱 I’m currently learning **NodeJS,ExpressJS**
-
-- 💬 Ask me about **MERN stack**
-
-- 📫 How to reach me **pratiksindhiya3@gmail.com**
+- 🎓 I’m currently studying at [IIIT VADODARA](https://iiitvadodara.ac.in)  
+- 🔭 I’m currently working on [Music App](https://listenup.freewebhostmost.com/)  
+- 🌱 I’m currently learning **NodeJS, ExpressJS**  
+- 💬 Ask me about **MERN stack**  
+- 📫 How to reach me: **pratiksindhiya3@gmail.com**  
+- 🌐 Check out my portfolio: [Portfolio Website](https://pratiksindhiya.onrender.com/)  
 
 
 <h3 align="left">Connect with me:</h3>
